@@ -1,12 +1,12 @@
 <channels>
 <channel>
-<name>"[COLOR lime] TV AO VIVO [/COLOR]"</name>
+<name>[COLOR lime] TV AO VIVO [/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/27/items/icon_20200915_202009/icon.png</thumbnail>
 <externallink></externallink>
 <fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
 <info>
 
-"[COLOR lime] CANAIS AO VIVO [/COLOR]"</info>
+[COLOR lime] CANAIS AO VIVO [/COLOR]</info>
 </channel>
 </channels>
 
@@ -14,13 +14,13 @@
 
 <channels>
 <channel>
-<name>"[COLOR lime] FILMES [/COLOR]"</name>
+<name>[COLOR lime] FILMES [/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/27/items/icon_20200915_202009/icon.png</thumbnail>
 <externallink></externallink>
 <fanart>https://image.tmdb.org/t/p/original/90seuFwm25GWNbF1ydkaPa4DrdO.jpg</fanart>
 <info>
 
-"[COLOR lime] FILMES DIVERSOS PARA ASSISTIR [/COLOR]"</info>
+[COLOR lime] FILMES DIVERSOS PARA ASSISTIR [/COLOR]</info>
 </channel>
 </channels>
 
@@ -28,13 +28,13 @@
 
 <channels>
 <channel>
-<name>"[COLOR lime] SÉRIES [/COLOR]"</name>
+<name>[COLOR lime] SÉRIES [/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/27/items/icon_20200915_202009/icon.png</thumbnail>
 <externallink></externallink>
 <fanart>https://ia801408.us.archive.org/16/items/icon_20200915_20200915_1619/fanart.jpg</fanart>
 <info>
 
-"[COLOR lime] AS MELHORES SÉRIES [/COLOR]"</info>
+[COLOR lime] AS MELHORES SÉRIES [/COLOR]</info>
 </channel>
 </channels>
 
@@ -42,13 +42,13 @@
 
 <channels>
 <channel>
-<name>"[COLOR lime] NOVELAS [/COLOR]"</name>
+<name>[COLOR lime] NOVELAS [/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/27/items/icon_20200915_202009/icon.png</thumbnail>
 <externallink></externallink>
 <fanart>https://ia801405.us.archive.org/34/items/icon_20200915_20200915_1712/fanart.jpg</fanart>
 <info>
 
-"[COLOR lime] AS MELHORES NOVELAS [/COLOR]"</info>
+[COLOR lime] AS MELHORES NOVELAS [/COLOR]</info>
 </channel>
 </channels>
 
@@ -56,12 +56,15 @@
 
 <channels>
 <channel>
-<name>"[COLOR lime] DESENHOS [/COLOR]"</name>
+<name>[COLOR lime] DESENHOS [/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/27/items/icon_20200915_202009/icon.png</thumbnail>
 <externallink></externallink>
 <fanart>https://ia801506.us.archive.org/12/items/fanart_20200915_2118/fanart.jpg</fanart>
 <info>
 
-"[COLOR lime] DIVERSÃO PARA CRIANÇADA [/COLOR]"</info>
+[COLOR lime] DIVERSÃO PARA CRIANÇADA [/COLOR]</info>
 </channel>
 </channels>
+
+
+
