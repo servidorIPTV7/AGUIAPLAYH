@@ -1,0 +1,177 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",Band HD
+http://canais.servidor.tv:8080/joel/joel123/489
+#EXTINF:-1 tvg-logo="",Band HD+
+http://canais.servidor.tv:8080/joel/joel123/484
+#EXTINF:-1 tvg-logo="",Globo Bahia HD+
+http://canais.servidor.tv:8080/joel/joel123/2707
+#EXTINF:-1 tvg-logo="",Globo Bahia SD
+http://canais.servidor.tv:8080/joel/joel123/260
+#EXTINF:-1 tvg-logo="",Globo Brasilia HD
+http://canais.servidor.tv:8080/joel/joel123/291
+#EXTINF:-1 tvg-logo="",Globo Centro America HD+
+http://canais.servidor.tv:8080/joel/joel123/2712
+#EXTINF:-1 tvg-logo="",Globo EPTV Campinas HD
+http://canais.servidor.tv:8080/joel/joel123/289
+#EXTINF:-1 tvg-logo="",Globo EPTV Campinas HD+
+http://canais.servidor.tv:8080/joel/joel123/2711
+#EXTINF:-1 tvg-logo="",Globo EPTV Ribeirão Preto HD
+http://canais.servidor.tv:8080/joel/joel123/287
+#EXTINF:-1 tvg-logo="",Globo EPTV Ribeirão Preto HD+
+http://canais.servidor.tv:8080/joel/joel123/2952
+#EXTINF:-1 tvg-logo="",Globo EPTV Sul Minas HD
+http://canais.servidor.tv:8080/joel/joel123/4469
+#EXTINF:-1 tvg-logo="",Globo EPTV Sul Minas HD+
+http://canais.servidor.tv:8080/joel/joel123/4468
+#EXTINF:-1 tvg-logo="",Globo EPTV São Carlos HD
+http://canais.servidor.tv:8080/joel/joel123/2941
+#EXTINF:-1 tvg-logo="",Globo EPTV São Carlos HD+
+http://canais.servidor.tv:8080/joel/joel123/2940
+#EXTINF:-1 tvg-logo="",Globo Goiânia SD
+http://canais.servidor.tv:8080/joel/joel123/262
+#EXTINF:-1 tvg-logo="",Globo Inter TV Grande Minas HD
+http://canais.servidor.tv:8080/joel/joel123/4471
+#EXTINF:-1 tvg-logo="",Globo Inter TV Grande Minas HD+
+http://canais.servidor.tv:8080/joel/joel123/4470
+#EXTINF:-1 tvg-logo="",Globo Manaus
+http://canais.servidor.tv:8080/joel/joel123/19
+#EXTINF:-1 tvg-logo="",Globo Minas HD
+http://canais.servidor.tv:8080/joel/joel123/279
+#EXTINF:-1 tvg-logo="",Globo Minas HD+
+http://canais.servidor.tv:8080/joel/joel123/2713
+#EXTINF:-1 tvg-logo="",Globo News HD
+http://canais.servidor.tv:8080/joel/joel123/1468
+#EXTINF:-1 tvg-logo="",Globo News HD+
+http://canais.servidor.tv:8080/joel/joel123/277
+#EXTINF:-1 tvg-logo="",Globo Nordeste HD
+http://canais.servidor.tv:8080/joel/joel123/275
+#EXTINF:-1 tvg-logo="",Globo Nordeste HD+
+http://canais.servidor.tv:8080/joel/joel123/2714
+#EXTINF:-1 tvg-logo="",Globo NSC Floripa HD+
+http://canais.servidor.tv:8080/joel/joel123/2710
+#EXTINF:-1 tvg-logo="",Globo RBS Poa HD
+http://canais.servidor.tv:8080/joel/joel123/1467
+#EXTINF:-1 tvg-logo="",Globo RBS Poa HD+
+http://canais.servidor.tv:8080/joel/joel123/271
+#EXTINF:-1 tvg-logo="",Globo RJ HD
+http://canais.servidor.tv:8080/joel/joel123/1504
+#EXTINF:-1 tvg-logo="",Globo RJ HD+
+http://canais.servidor.tv:8080/joel/joel123/268
+#EXTINF:-1 tvg-logo="",Globo RPC Paranaense HD+
+http://canais.servidor.tv:8080/joel/joel123/2709
+#EXTINF:-1 tvg-logo="",Globo RPC SD
+http://canais.servidor.tv:8080/joel/joel123/266
+#EXTINF:-1 tvg-logo="",Globo S.J Rio Preto HD
+http://canais.servidor.tv:8080/joel/joel123/2945
+#EXTINF:-1 tvg-logo="",Globo S.J Rio Preto HD+
+http://canais.servidor.tv:8080/joel/joel123/2944
+#EXTINF:-1 tvg-logo="",Globo Sergipe HD+
+http://canais.servidor.tv:8080/joel/joel123/250
+#EXTINF:-1 tvg-logo="",Globo São Paulo HD
+http://canais.servidor.tv:8080/joel/joel123/1466
+#EXTINF:-1 tvg-logo="",Globo São Paulo HD+
+http://canais.servidor.tv:8080/joel/joel123/265
+#EXTINF:-1 tvg-logo="",Globo TV Anhanguera HD+
+http://canais.servidor.tv:8080/joel/joel123/2708
+#EXTINF:-1 tvg-logo="",Globo TV Diario Mogi HD
+http://canais.servidor.tv:8080/joel/joel123/2947
+#EXTINF:-1 tvg-logo="",Globo TV Diario Mogi HD+
+http://canais.servidor.tv:8080/joel/joel123/2946
+#EXTINF:-1 tvg-logo="",Globo TV Fronteira HD
+http://canais.servidor.tv:8080/joel/joel123/2943
+#EXTINF:-1 tvg-logo="",Globo TV Fronteira HD+
+http://canais.servidor.tv:8080/joel/joel123/2942
+#EXTINF:-1 tvg-logo="",Globo TV Gazeta Alagoas HD+
+http://canais.servidor.tv:8080/joel/joel123/4467
+#EXTINF:-1 tvg-logo="",Globo TV Gazeta HD+
+http://canais.servidor.tv:8080/joel/joel123/75
+#EXTINF:-1 tvg-logo="",Globo TV Integração HD
+http://canais.servidor.tv:8080/joel/joel123/22505
+#EXTINF:-1 tvg-logo="",Globo TV Integração HD+
+http://canais.servidor.tv:8080/joel/joel123/22504
+#EXTINF:-1 tvg-logo="",Globo TV Liberal
+http://canais.servidor.tv:8080/joel/joel123/2706
+#EXTINF:-1 tvg-logo="",Globo TV Mirante HD+
+http://canais.servidor.tv:8080/joel/joel123/2705
+#EXTINF:-1 tvg-logo="",Globo TV Morena HD+
+http://canais.servidor.tv:8080/joel/joel123/2704
+#EXTINF:-1 tvg-logo="",Globo TV Santa Cruz SD
+http://canais.servidor.tv:8080/joel/joel123/29774
+#EXTINF:-1 tvg-logo="",Globo TV TEM Sorocaba HD
+http://canais.servidor.tv:8080/joel/joel123/2949
+#EXTINF:-1 tvg-logo="",Globo TV TEM Sorocaba HD+
+http://canais.servidor.tv:8080/joel/joel123/2948
+#EXTINF:-1 tvg-logo="",Globo TV TRIBUNA HD
+http://canais.servidor.tv:8080/joel/joel123/2954
+#EXTINF:-1 tvg-logo="",Globo TV TRIBUNA HD+
+http://canais.servidor.tv:8080/joel/joel123/2953
+#EXTINF:-1 tvg-logo="",Globo TV VANGUARDA HD
+http://canais.servidor.tv:8080/joel/joel123/2951
+#EXTINF:-1 tvg-logo="",Globo TV VANGUARDA HD+
+http://canais.servidor.tv:8080/joel/joel123/2950
+#EXTINF:-1 tvg-logo="",Globo TV Verdes Mares HD+
+http://canais.servidor.tv:8080/joel/joel123/2703
+#EXTINF:-1 tvg-logo="",Gloob HD
+http://canais.servidor.tv:8080/joel/joel123/1499
+#EXTINF:-1 tvg-logo="",Gloob HD+
+http://canais.servidor.tv:8080/joel/joel123/686
+#EXTINF:-1 tvg-logo="",Gloobinho HD
+http://canais.servidor.tv:8080/joel/joel123/1515
+#EXTINF:-1 tvg-logo="",Gloobinho HD+
+http://canais.servidor.tv:8080/joel/joel123/237
+#EXTINF:-1 tvg-logo="",GNT HD
+http://canais.servidor.tv:8080/joel/joel123/235
+#EXTINF:-1 tvg-logo="",Mais Globosat HD
+http://canais.servidor.tv:8080/joel/joel123/213
+#EXTINF:-1 tvg-logo="",Record BA HD
+http://canais.servidor.tv:8080/joel/joel123/29777
+#EXTINF:-1 tvg-logo="",Record Belem HD
+http://canais.servidor.tv:8080/joel/joel123/29775
+#EXTINF:-1 tvg-logo="",Record DF HD
+http://canais.servidor.tv:8080/joel/joel123/29776
+#EXTINF:-1 tvg-logo="",Record GO HD
+http://canais.servidor.tv:8080/joel/joel123/29779
+#EXTINF:-1 tvg-logo="",Record MG HD
+http://canais.servidor.tv:8080/joel/joel123/29778
+#EXTINF:-1 tvg-logo="",Record News HD
+http://canais.servidor.tv:8080/joel/joel123/1513
+#EXTINF:-1 tvg-logo="",Record News HD+
+http://canais.servidor.tv:8080/joel/joel123/405
+#EXTINF:-1 tvg-logo="",Record PA HD
+http://canais.servidor.tv:8080/joel/joel123/29782
+#EXTINF:-1 tvg-logo="",Record RJ HD
+http://canais.servidor.tv:8080/joel/joel123/29780
+#EXTINF:-1 tvg-logo="",Record RS HD
+http://canais.servidor.tv:8080/joel/joel123/29781
+#EXTINF:-1 tvg-logo="",Record SP HD
+http://canais.servidor.tv:8080/joel/joel123/403
+#EXTINF:-1 tvg-logo="",Record SP HD+
+http://canais.servidor.tv:8080/joel/joel123/148
+#EXTINF:-1 tvg-logo="",Rede TV HD
+http://canais.servidor.tv:8080/joel/joel123/136
+#EXTINF:-1 tvg-logo="",Rede Vida HD
+#EXTINF:-1 tvg-logo="",TV Brasil HD
+http://canais.servidor.tv:8080/joel/joel123/22513
+#EXTINF:-1 tvg-logo="",TV Camara HD
+http://canais.servidor.tv:8080/joel/joel123/22511
+#EXTINF:-1 tvg-logo="",TV Diario HD
+http://canais.servidor.tv:8080/joel/joel123/4473
+#EXTINF:-1 tvg-logo="",TV Diario HD+
+http://canais.servidor.tv:8080/joel/joel123/4472
+#EXTINF:-1 tvg-logo="",TV Escola HD
+http://canais.servidor.tv:8080/joel/joel123/22514
+#EXTINF:-1 tvg-logo="",TV Justiça HD
+http://canais.servidor.tv:8080/joel/joel123/22512
+#EXTINF:-1 tvg-logo="",TV Senado HD
+http://canais.servidor.tv:8080/joel/joel123/22515
+#EXTINF:-1 tvg-logo="",TV5 SD
+http://canais.servidor.tv:8080/joel/joel123/69
+#EXTINF:-1 tvg-logo="",VH1 HD
+http://canais.servidor.tv:8080/joel/joel123/65
+#EXTINF:-1 tvg-logo="",VH1 Mega Hits SD
+http://canais.servidor.tv:8080/joel/joel123/64
+#EXTINF:-1 tvg-logo="",Viva HD
+http://canais.servidor.tv:8080/joel/joel123/2680
+#EXTINF:-1 tvg-logo="",Viva HD+
+http://canais.servidor.tv:8080/joel/joel123/10
