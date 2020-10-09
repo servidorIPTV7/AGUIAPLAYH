@@ -16,8 +16,8 @@
 <channel>
 <name>"[COLOR lime] FILMES [/COLOR]"</name>
 <thumbnail>https://ia601504.us.archive.org/7/items/icon_20201009_202010/icon.png</thumbnail>
-<externallink></externallink>
-<fanart>https://image.tmdb.org/t/p/original/90seuFwm25GWNbF1ydkaPa4DrdO.jpg</fanart>
+<externallink>https://</externallink>
+<fanart>https://ia601504.us.archive.org/0/items/fanart_20200907_2235/fanart.jpg</fanart>
 <info>
 
 "[COLOR lime] FILMES DIVERSOS PARA ASSISTIR [/COLOR]"</info>
@@ -30,8 +30,8 @@
 <channel>
 <name>"[COLOR lime] SÉRIES [/COLOR]"</name>
 <thumbnail>https://ia601504.us.archive.org/7/items/icon_20201009_202010/icon.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia801408.us.archive.org/16/items/icon_20200915_20200915_1619/fanart.jpg</fanart>
+<externallink>https://</externallink>
+<fanart>https://ia601504.us.archive.org/0/items/fanart_20200907_2235/fanart.jpg</fanart>
 <info>
 
 "[COLOR lime] AS MELHORES SÉRIES [/COLOR]"</info>
@@ -44,8 +44,8 @@
 <channel>
 <name>"[COLOR lime] NOVELAS [/COLOR]"</name>
 <thumbnail>https://ia601504.us.archive.org/7/items/icon_20201009_202010/icon.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia801405.us.archive.org/34/items/icon_20200915_20200915_1712/fanart.jpg</fanart>
+<externallink>https://</externallink>
+<fanart>https://ia601504.us.archive.org/0/items/fanart_20200907_2235/fanart.jpg</fanart>
 <info>
 
 "[COLOR lime] AS MELHORES NOVELAS [/COLOR]"</info>
@@ -58,11 +58,13 @@
 <channel>
 <name>"[COLOR lime] DESENHOS [/COLOR]"</name>
 <thumbnail>https://ia601504.us.archive.org/7/items/icon_20201009_202010/icon.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia801506.us.archive.org/12/items/fanart_20200915_2118/fanart.jpg</fanart>
+<externallink>https://</externallink>
+<fanart>https://ia601504.us.archive.org/0/items/fanart_20200907_2235/fanart.jpg</fanart>
 <info>
 
 "[COLOR lime] DIVERSÃO PARA CRIANÇADA [/COLOR]"</info>
 </channel>
 </channels>
+
+
 
