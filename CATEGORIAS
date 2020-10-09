@@ -1,5 +1,19 @@
 <channels>
 <channel>
+<name>"[COLOR indigo][B]|||[/COLOR][COLOR lime]|||[/COLOR] [COLOR yellow]|||[/COLOR][COLOR yellow]TV AO VIVO[/COLOR][COLOR lime]|[/COLOR]"</name>
+<thumbnail>https://ia801406.us.archive.org/32/items/fanart_20200915/icon.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
+<info>
+
+"[COLOR yellow]|[/COLOR][B]- CANAIS AO VIVO -[COLOR yellow]|[/COLOR]"</info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
 <name>[COLOR lime] TV AO VIVO [/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/27/items/icon_20200915_202009/icon.png</thumbnail>
 <externallink></externallink>
