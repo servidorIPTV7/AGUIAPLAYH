@@ -8,41 +8,16 @@ https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1602311573&token=48f
 https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1602311714&token=3cf9d54ad9bb1c62a6b548d7ec2c115d
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO NORDESTE [/COLOR]
 https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1602311766&token=fc38eeca6bea054ad33a751ea4e046b9
-#EXTINF:-1 tvg-logo="",[COLOR lime] RECORD TV SP [/COLOR]
-#EXTINF:-1 tvg-logo="",[COLOR lime] REDE TV [/COLOR]
-#EXTINF:-1 tvg-logo="",[COLOR lime] BAND [/COLOR]
-#EXTINF:-1 tvg-logo="",[COLOR lime] RECORD NEWS [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] RECORD TV SP [/COLOR]
+https://streaming.belugacdn.link/a/hls1/recordsp.m3u8?expires=1602311819&token=0ede8809c0fc589a2b5fb31eb6c5656d
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_RedeTV%21.png",[COLOR lime] REDE TV [/COLOR]
+https://streaming.belugacdn.link/a/hls1/redetv.m3u8?expires=1602312041&token=a55cca12cbe446ea9499540baa7ecd17
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/1024px-Rede_Bandeirantes_logo_2018.svg.png",[COLOR lime] BAND [/COLOR]
+https://streaming.belugacdn.link/a/hls1/band-v2.m3u8?expires=1602311986&token=f1cbfa4ece85eacb34ff0f503e6aa38b
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record_News_%282016%29.png",[COLOR lime] RECORD NEWS [/COLOR]
+https://streaming.belugacdn.link/a/hls1/recordnews.m3u8?expires=1602311880&token=f7f007aa395c83dca1f3451a16d37716
 
-<item>
-<title>[COLOR lime] RECORD TV SP [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/recordsp.m3u8?expires=1602311819&token=0ede8809c0fc589a2b5fb31eb6c5656d</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png</thumbnail>
-<fanart></fanart>
-<info>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</info>
-</item>
 
-<item>
-<title>[COLOR lime] REDE TV [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/redetv.m3u8?expires=1602312041&token=a55cca12cbe446ea9499540baa7ecd17</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_RedeTV%21.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
 
-<item>
-<title>[COLOR lime] BAND [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/band-v2.m3u8?expires=1602311986&token=f1cbfa4ece85eacb34ff0f503e6aa38b</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/1024px-Rede_Bandeirantes_logo_2018.svg.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR lime] RECORD NEWS [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/recordnews.m3u8?expires=1602311880&token=f7f007aa395c83dca1f3451a16d37716</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record_News_%282016%29.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
 
 
