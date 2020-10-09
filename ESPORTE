@@ -2,9 +2,6 @@
 
 **************************************** ESPORTES ONLINE **********************************************************************
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/14/items/icon_20200915/icon.png",ÁGUIA PLAYH
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/DAZN.png",DAZN HD
-http://canais.servidor.tv:8080/joel/joel123/2716
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/BAND-SPORTS.png",Band Sports HD
 http://canais.servidor.tv:8080/joel/joel123/1495
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/BAND-SPORTS.png",Band Sports HD+
