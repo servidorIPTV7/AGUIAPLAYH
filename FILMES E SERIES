@@ -1,3 +1,6 @@
+#EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/A%26E_HD.png",A&E HD
 http://canais.servidor.tv:8080/joel/joel123/1521
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/A%26E_HD.png",A&E HD+
