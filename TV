@@ -1,34 +1,17 @@
-<item>
-<title>[COLOR lime] SBT [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1602311513&token=d3640ca990e1620266fda64970c4e6cf</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/500px-Logotipo_do_SBT.svg.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
+#EXTM3U
 
-<item>
-<title>[COLOR lime] GLOBO RJ [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1602311573&token=48fc75ebd140f1f3b7a2a158d570d635</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR lime] GLOBO SP [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1602311714&token=3cf9d54ad9bb1c62a6b548d7ec2c115d</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR lime] GLOBO NORDESTE [/COLOR</title>
-<link>https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1602311766&token=fc38eeca6bea054ad33a751ea4e046b9</link>
-<thumbnail>https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/32/items/fanart_20200915/fanart.jpg</fanart>
-<info></info>
-</item>
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/500px-Logotipo_do_SBT.svg.png",[COLOR lime] SBT [/COLOR]
+https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1602311513&token=d3640ca990e1620266fda64970c4e6cf
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO RJ [/COLOR]
+https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1602311573&token=48fc75ebd140f1f3b7a2a158d570d635
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO SP [/COLOR]
+https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1602311714&token=3cf9d54ad9bb1c62a6b548d7ec2c115d
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO NORDESTE [/COLOR]
+https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1602311766&token=fc38eeca6bea054ad33a751ea4e046b9
+#EXTINF:-1 tvg-logo="",[COLOR lime] RECORD TV SP [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] REDE TV [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] BAND [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] RECORD NEWS [/COLOR]
 
 <item>
 <title>[COLOR lime] RECORD TV SP [/COLOR</title>
