@@ -1,21 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/500px-Logotipo_do_SBT.svg.png",[COLOR lime] SBT [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1602311513&token=d3640ca990e1620266fda64970c4e6cf
+http://canais.servidor.tv:8080/joel/joel123/1512
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO RJ [/COLOR]
-https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1602311573&token=48fc75ebd140f1f3b7a2a158d570d635
+http://canais.servidor.tv:8080/joel/joel123/1504
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO SP [/COLOR]
-https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1602311714&token=3cf9d54ad9bb1c62a6b548d7ec2c115d
+http://canais.servidor.tv:8080/joel/joel123/1466
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO NORDESTE [/COLOR]
-https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1602311766&token=fc38eeca6bea054ad33a751ea4e046b9
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] RECORD TV SP [/COLOR]
-https://streaming.belugacdn.link/a/hls1/recordsp.m3u8?expires=1602311819&token=0ede8809c0fc589a2b5fb31eb6c5656d
+http://canais.servidor.tv:8080/joel/joel123/275
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] RECORD TV GO [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/29779
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] Record SP HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/403
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_RedeTV%21.png",[COLOR lime] REDE TV [/COLOR]
-https://streaming.belugacdn.link/a/hls1/redetv.m3u8?expires=1602312041&token=a55cca12cbe446ea9499540baa7ecd17
+http://canais.servidor.tv:8080/joel/joel123/136
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/1024px-Rede_Bandeirantes_logo_2018.svg.png",[COLOR lime] BAND [/COLOR]
-https://streaming.belugacdn.link/a/hls1/band-v2.m3u8?expires=1602311986&token=f1cbfa4ece85eacb34ff0f503e6aa38b
+http://canais.servidor.tv:8080/joel/joel123/489
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record_News_%282016%29.png",[COLOR lime] RECORD NEWS [/COLOR]
-https://streaming.belugacdn.link/a/hls1/recordnews.m3u8?expires=1602311880&token=f7f007aa395c83dca1f3451a16d37716
+http://canais.servidor.tv:8080/joel/joel123/1513
 
 
 
