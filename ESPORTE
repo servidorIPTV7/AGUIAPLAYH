@@ -3,40 +3,40 @@
 **************************************** ESPORTES ONLINE **********************************************************************
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/BAND-SPORTS.png",[COLOR lime] Band Sports HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1602315468&token=472a7fe1fe2641b089c6604293227d09
+http://canais.servidor.tv:8080/joel/joel123/1495
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/COMBATE.png",[COLOR lime] Combate HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1602316194&token=12e907a1c2f1777fa22c0219a43edc33
+http://canais.servidor.tv:8080/joel/joel123/1489
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN.png",[COLOR lime] ESPN HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1602316370&token=c281464d2e0654bf1bbe9de0946a4b9a
+http://canais.servidor.tv:8080/joel/joel123/1477
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN.png",[COLOR lime] ESPN 2 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1602316414&token=d2102617fb3781e68f284cd1fce3a867
+http://canais.servidor.tv:8080/joel/joel123/1476
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN-BRASIL.jpg",[COLOR lime] ESPN Brasil HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1602316452&token=1317b5929572bcb100d183b1b9d7224e
+http://canais.servidor.tv:8080/joel/joel123/1475
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN-EXTRA.png",[COLOR lime] ESPN Extra HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1602316591&token=21bb78e3fbdd6019e157218b5c01a457
+http://canais.servidor.tv:8080/joel/joel123/311
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/FOX-SPORTS.png",[COLOR lime] Fox Sports HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1602316655&token=33720db8617b136d87bfbab8da1f0dff
+http://canais.servidor.tv:8080/joel/joel123/1502
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/FOX-SPORTS.png",[COLOR lime] Fox Sports 2 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1602316696&token=d34201b234b7c1c58f7fe7467ea7a6c7
+http://canais.servidor.tv:8080/joel/joel123/1501
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/SPORTV.png",[COLOR lime] SporTV HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1602316732&token=58b53b0536ebf1a8e712f18b99fc3b84
+http://canais.servidor.tv:8080/joel/joel123/1444
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/SPORTV.png",[COLOR lime] SporTV 2 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1602316778&token=5da825a8d981daf599b0c0216494b316
+http://canais.servidor.tv:8080/joel/joel123/1443
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/SPORTV.png",[COLOR lime] SporTV 3 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sportv3.m3u8?expires=1602316812&token=551bf4d65c64f8f0544761c4439b426a
+http://canais.servidor.tv:8080/joel/joel123/1442
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere Clubes HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1602316853&token=3e83178d78a213de986bfa5c9502c811
+http://canais.servidor.tv:8080/joel/joel123/1447
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 2 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1602316895&token=263220aa530d8336d146298fdf387ecf
+http://canais.servidor.tv:8080/joel/joel123/1511
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 3 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiere3.m3u8?expires=1602316934&token=5517eb5ba60e37c6cb8361af78fc40bf
+http://canais.servidor.tv:8080/joel/joel123/1510
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 4 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiere4.m3u8?expires=1602316983&token=2109f407bab99461ebbbc85a8719d29b
+http://canais.servidor.tv:8080/joel/joel123/1509
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 5 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiere5.m3u8?expires=1602317024&token=2945a858e9ca8cdd95c53d0b993f07ac
+http://canais.servidor.tv:8080/joel/joel123/1508
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 6 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiere6.m3u8?expires=1602317068&token=a5017c043424a4926d2a3a7029a9f26d
+http://canais.servidor.tv:8080/joel/joel123/1507
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 7 HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiere7.m3u8?expires=1602317099&token=6dca7b94e7524834305ea91fe5e65e1c
+http://canais.servidor.tv:8080/joel/joel123/1506
 
 
