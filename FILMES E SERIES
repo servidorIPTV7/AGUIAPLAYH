@@ -3,120 +3,64 @@
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/A%26E_HD.png",A&E HD
 http://canais.servidor.tv:8080/joel/joel123/1521
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/A%26E_HD.png",A&E HD+
-http://canais.servidor.tv:8080/joel/joel123/375
 #EXTINF:-1 tvg-logo="",AMC HD
 http://canais.servidor.tv:8080/joel/joel123/1498
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM HD
 http://canais.servidor.tv:8080/joel/joel123/99
-#EXTINF:-1 tvg-logo="",AMC HD+
-http://canais.servidor.tv:8080/joel/joel123/373
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-History_Logo.svg.png",H2 HD
 http://canais.servidor.tv:8080/joel/joel123/1465
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-History_Logo.svg.png",H2 HD+
-http://canais.servidor.tv:8080/joel/joel123/233
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-AXN_logo_%282015%29.svg.png",AXN HD
 http://canais.servidor.tv:8080/joel/joel123/1496
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-AXN_logo_%282015%29.svg.png",AXN HD+
-http://canais.servidor.tv:8080/joel/joel123/369
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Cinemax_LA.png",Cinemax HD
 http://canais.servidor.tv:8080/joel/joel123/1490
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Cinemax_LA.png",Cinemax HD+
-http://canais.servidor.tv:8080/joel/joel123/347
 #EXTINF:-1 tvg-logo="",Discovery Channel HD
 http://canais.servidor.tv:8080/joel/joel123/1487
-#EXTINF:-1 tvg-logo="",Discovery Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/337
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/FOXPremium2018.png",Fox Premium 1 HD
 http://canais.servidor.tv:8080/joel/joel123/1505
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/FOXPremium2018.png",Fox Premium 1 HD+
-http://canais.servidor.tv:8080/joel/joel123/29767
 #EXTINF:-1 tvg-logo="",Fox Premium 2 HD
 http://canais.servidor.tv:8080/joel/joel123/29768
-#EXTINF:-1 tvg-logo="",Fox Premium 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/29769
 #EXTINF:-1 tvg-logo="",FX HD
 http://canais.servidor.tv:8080/joel/joel123/1469
-#EXTINF:-1 tvg-logo="",FX HD+
-http://canais.servidor.tv:8080/joel/joel123/294
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO2_logo.png",HBO 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1460
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO2_logo.png",HBO 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/231
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO_Family_logo.png",HBO Family HD
-http://canais.servidor.tv:8080/joel/joel123/1464
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO_Family_logo.png",HBO Family HD+
-http://canais.servidor.tv:8080/joel/joel123/229
 #EXTINF:-1 tvg-logo="",HBO HD
 http://canais.servidor.tv:8080/joel/joel123/1463
-#EXTINF:-1 tvg-logo="",HBO HD+
-http://canais.servidor.tv:8080/joel/joel123/227
-#EXTINF:-1 tvg-logo="",HBO Mundi HD
-http://canais.servidor.tv:8080/joel/joel123/1457
-#EXTINF:-1 tvg-logo="",HBO Mundi HD+
-http://canais.servidor.tv:8080/joel/joel123/211
-#EXTINF:-1 tvg-logo="",HBO Plus HD
-http://canais.servidor.tv:8080/joel/joel123/1462
-#EXTINF:-1 tvg-logo="",HBO Plus HD+
-http://canais.servidor.tv:8080/joel/joel123/226
 #EXTINF:-1 tvg-logo="",HBO Pop HD
 http://canais.servidor.tv:8080/joel/joel123/1455
-#EXTINF:-1 tvg-logo="",HBO Pop HD+
-http://canais.servidor.tv:8080/joel/joel123/207
+#EXTINF:-1 tvg-logo="",HBO Mundi HD
+http://canais.servidor.tv:8080/joel/joel123/1457
+#EXTINF:-1 tvg-logo="",HBO Plus HD
+http://canais.servidor.tv:8080/joel/joel123/146
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO2_logo.png",HBO 2 HD
+http://canais.servidor.tv:8080/joel/joel123/1460
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO_Family_logo.png",HBO Family HD
+http://canais.servidor.tv:8080/joel/joel123/1464
 #EXTINF:-1 tvg-logo="",Universal Channel HD
 http://canais.servidor.tv:8080/joel/joel123/1431
-#EXTINF:-1 tvg-logo="",Universal Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/67
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-HBO_Signature.svg.png",HBO Signature HD
 http://canais.servidor.tv:8080/joel/joel123/1461
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-HBO_Signature.svg.png",HBO Signature HD+
-http://canais.servidor.tv:8080/joel/joel123/224
 #EXTINF:-1 tvg-logo="",HBO Xtreme HD
 http://canais.servidor.tv:8080/joel/joel123/1456
-#EXTINF:-1 tvg-logo="",HBO Xtreme HD+
-http://canais.servidor.tv:8080/joel/joel123/209
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Megapix_fundoclaro_midiaimpressa.png",Megapix HD
 http://canais.servidor.tv:8080/joel/joel123/1454
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Megapix_fundoclaro_midiaimpressa.png",Megapix HD+
-http://canais.servidor.tv:8080/joel/joel123/204
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-SpaceLogo.svg.png",Space HD
 http://canais.servidor.tv:8080/joel/joel123/1445
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-SpaceLogo.svg.png",Space HD+
-http://canais.servidor.tv:8080/joel/joel123/125
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Action_2.png",Telecine Action HD
 http://canais.servidor.tv:8080/joel/joel123/1438
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Action_2.png",Telecine Action HD+
-http://canais.servidor.tv:8080/joel/joel123/111
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Cult_2.png",Telecine Cult HD
 http://canais.servidor.tv:8080/joel/joel123/1437
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Cult_2.png",Telecine Cult HD+
-http://canais.servidor.tv:8080/joel/joel123/109
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-Telecine-fun-2.png",Telecine Fun HD
 http://canais.servidor.tv:8080/joel/joel123/1436
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-Telecine-fun-2.png",Telecine Fun HD+
-http://canais.servidor.tv:8080/joel/joel123/107
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Pipoca_2.png",Telecine Pipoca HD
 http://canais.servidor.tv:8080/joel/joel123/1435
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Pipoca_2.png",Telecine Pipoca HD+
-http://canais.servidor.tv:8080/joel/joel123/105
 #EXTINF:-1 tvg-logo="",Telecine Premium HD
 http://canais.servidor.tv:8080/joel/joel123/1434
-#EXTINF:-1 tvg-logo="",Telecine Premium HD+
-http://canais.servidor.tv:8080/joel/joel123/103
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Touch_3.png",Telecine Touch HD
 http://canais.servidor.tv:8080/joel/joel123/1439
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Touch_3.png",Telecine Touch HD+
-http://canais.servidor.tv:8080/joel/joel123/101
 #EXTINF:-1 tvg-logo="",TLC HD
 http://canais.servidor.tv:8080/joel/joel123/94
 #EXTINF:-1 tvg-logo="",TNT HD
 http://canais.servidor.tv:8080/joel/joel123/1433
-#EXTINF:-1 tvg-logo="",TNT HD+
-http://canais.servidor.tv:8080/joel/joel123/92
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/TNT_Series_Logo_2016.png",TNT Series HD
 http://canais.servidor.tv:8080/joel/joel123/1432
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/TNT_Series_Logo_2016.png",TNT Séries HD+
-http://canais.servidor.tv:8080/joel/joel123/90
 
 
 
