@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] Aeroporto Área Restrita [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/32595
+#EXTINF:-1 tvg-logo="",[COLOR lime] Animal Planet HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1497
+
+
+
+
