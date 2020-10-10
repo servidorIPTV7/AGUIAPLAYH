@@ -33,11 +33,11 @@ http://canais.servidor.tv:8080/joel/joel123/146
 http://canais.servidor.tv:8080/joel/joel123/1460
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/HBO_Family_logo.png",[COLOR lime] HBO Family HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1464
-#EXTINF:-1 tvg-logo="",Universal Channel HD
+#EXTINF:-1 tvg-logo="",[COLOR lime] Universal Channel HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1431
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-HBO_Signature.svg.png",[COLOR lime] HBO Signature HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1461
-#EXTINF:-1 tvg-logo="",[COLOR lime]  [/COLOR]HBO Xtreme HD
+#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Xtreme HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1456
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Megapix_fundoclaro_midiaimpressa.png",[COLOR lime] Megapix HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1454
@@ -47,7 +47,7 @@ http://canais.servidor.tv:8080/joel/joel123/1445
 http://canais.servidor.tv:8080/joel/joel123/1438
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Cult_2.png",[COLOR lime]  [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1437
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-Telecine-fun-2.png",[COLOR lime] Telecine Cult HD [/COLOR]Telecine Fun HD
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-Telecine-fun-2.png",[COLOR lime] Telecine Cult HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1436
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/Telecine_Pipoca_2.png",[COLOR lime] Telecine Pipoca HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1435
