@@ -1,4 +1,15 @@
 <item>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR magenta](2019)[/COLOR - [COLOR orange](HD)[/COLOR - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://d1e7pczsqp2y18.cloudfront.net/RCFServer5/ondemand/ENLOHLMS.mp4?attachment=trueURL AQUI$$1sname=[COLOR orange]HD[/COLOR] - link 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - link 2</link>
+<link>URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - link 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
 <title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR darkblue](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[/B]</title>
 <link></link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg</thumbnail>
