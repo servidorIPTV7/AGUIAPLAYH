@@ -4,101 +4,59 @@
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/BAND-SPORTS.png",[COLOR lime] Band Sports HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1495
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/COMBATE.png",[COLOR lime] Combate HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1489
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN.png",[COLOR lime] ESPN HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1477
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN.png",[COLOR lime] ESPN 2 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1476
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN-BRASIL.jpg",[COLOR lime] ESPN Brasil HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1475
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/ESPN-EXTRA.png",[COLOR lime] ESPN Extra HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/311
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/FOX-SPORTS.png",[COLOR lime] Fox Sports HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1502
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/FOX-SPORTS.png",[COLOR lime] Fox Sports 2 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1501
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/SPORTV.png",[COLOR lime] SporTV HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1444
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/SPORTV.png",[COLOR lime] SporTV 2 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1443
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/SPORTV.png",[COLOR lime] SporTV 3 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1442
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere Clubes HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1447
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 2 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1511
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 3 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1510
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 4 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1509
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 5 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1508
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 6 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1507
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/premiere-fc_202010/PREMIERE-FC.png",[COLOR lime] Premiere 7 HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1506
 
 
-
-*************************************************** ESPORTE 2 **************************************************************************
-
-#EXTM3U
-
-
-#EXTINF:-1,Combate HD
-http://canais.servidor.tv:8080/joel/joel123/1489
-
-#EXTINF:-1,Band Sports HD
-http://canais.servidor.tv:8080/joel/joel123/1495
-
-#EXTINF:-1,ESPN HD
-http://canais.servidor.tv:8080/joel/joel123/1477
-
-#EXTINF:-1,ESPN 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1476
-
-#EXTINF:-1,ESPN Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/1475
-
-#EXTINF:-1,ESPN Extra HD+
-http://canais.servidor.tv:8080/joel/joel123/311
-
-#EXTINF:-1,Fox Sports HD
-http://canais.servidor.tv:8080/joel/joel123/1502
-
-#EXTINF:-1,Fox Sports 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1501
-
-#EXTINF:-1,SporTV HD
-http://canais.servidor.tv:8080/joel/joel123/1444
-
-#EXTINF:-1,SporTV 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1443
-
-#EXTINF:-1,SporTV 3 HD
-http://canais.servidor.tv:8080/joel/joel123/1442
-
-#EXTINF:-1,Premiere Clubes HD
-http://canais.servidor.tv:8080/joel/joel123/1447
-
-#EXTINF:-1,Premiere 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1511
-
-#EXTINF:-1,Premiere 3 HD
-http://canais.servidor.tv:8080/joel/joel123/1510
-
-#EXTINF:-1,Premiere 4 HD
-http://canais.servidor.tv:8080/joel/joel123/1509
-
-#EXTINF:-1,Premiere 5 HD
-http://canais.servidor.tv:8080/joel/joel123/1508
-
-#EXTINF:-1,Premiere 6 HD
-http://canais.servidor.tv:8080/joel/joel123/1507
-
-#EXTINF:-1,Premiere 7 HD
-http://canais.servidor.tv:8080/joel/joel123/1506
 
 
 
