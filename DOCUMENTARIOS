@@ -12,6 +12,8 @@ http://canais.servidor.tv:8080/joel/joel123/32595
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/animalplanet.jpg",[COLOR lime] Animal Planet HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1497
 
+#EXTINF:-1 tvg-logo="",[COLOR lime] Discovery Channel HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1487
 
 
 
