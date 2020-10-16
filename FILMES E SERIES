@@ -10,9 +10,6 @@ http://canais.servidor.tv:8080/joel/joel123/1498
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tcm.jpg",[COLOR lime] TCM HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/99
 
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/35/items/800px-history-logo.svg/800px-History_Logo.svg.png",[COLOR lime] H2 HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1465
-
 #EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/31/items/cinemax_202010/axn.jpg",[COLOR lime] AXN HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1496
 
