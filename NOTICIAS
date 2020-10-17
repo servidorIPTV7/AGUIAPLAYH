@@ -1,1 +1,25 @@
-N
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] Globo News [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1468
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] Record News [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1513
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] Band News [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1494
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] CNN Brasil [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/21417
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] CNN Espanhol [/COLOR] [COLOR deeppink] SD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/345
+
+#EXTINF:-1 tvg-logo="",[COLOR lime] CNN Internacional [/COLOR] [COLOR deeppink] SD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/344
+
+
+
+
+
+[COLOR deeppink] HD [/COLOR]
