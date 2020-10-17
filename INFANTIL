@@ -1,1 +1,14 @@
-I
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneychannel.jpg",[COLOR blue] Disney Channel [/COLOR] [COLOR deeppink] HD [/color]
+http://canais.servidor.tv:8080/joel/joel123/1480
+
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyjunior.jpg",[COLOR blue] Disney Júnior [/COLOR] [COLOR deeppink] HD [/color]
+http://canais.servidor.tv:8080/joel/joel123/1478
+
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyxd.jpg",[COLOR blue] Disney XD [/COLOR] [COLOR deeppink] HD [/color]
+http://canais.servidor.tv:8080/joel/joel123/1517
+
+
+
+
