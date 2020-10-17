@@ -12,6 +12,24 @@ http://canais.servidor.tv:8080/joel/joel123/32595
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/animalplanet.jpg",[COLOR lime] Animal Planet [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1497
 
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoverycience.jpg",[COLOR lime] Discovery Science [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1482
+
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/disccoveryteater.jpg",[COLOR lime] Discovery Theater [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1486
+
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryturbo.jpg",[COLOR lime] Discovery Turbo [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1481
+
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryworld.jpg",[COLOR lime] Discovery World [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1485
+
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/investigacaodiscovery.jpg",[COLOR lime] Investigação Discovery [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/218
+
+
+
+
 
 
 
