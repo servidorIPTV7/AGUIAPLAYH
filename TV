@@ -1,26 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/500px-Logotipo_do_SBT.svg.png",[COLOR lime] SBT [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/500px-Logotipo_do_SBT.svg.png",[COLOR lime] SBT [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1512
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO RJ [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-globo-rio-ao-vivo.jpg",[COLOR lime] GLOBO RJ [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1504
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO SP [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-globo-rio-ao-vivo.jpg",[COLOR lime] GLOBO SP [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1466
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Rede_Globo.png",[COLOR lime] GLOBO NORDESTE [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-globo-rio-ao-vivo.jpg",[COLOR lime] GLOBO NORDESTE [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/275
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] RECORD TV GO [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] RECORD TV GO [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/29779
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] Record SP HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] Record SP [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/403
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_RedeTV%21.png",[COLOR lime] REDE TV [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/403
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-redetv-rio-de-janeiro-hd-ao-vivo.jpg",[COLOR lime] REDE TV [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/136
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/1024px-Rede_Bandeirantes_logo_2018.svg.png",[COLOR lime] BAND [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/1024px-Rede_Bandeirantes_logo_2018.svg.png",[COLOR lime] BAND [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/489
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record_News_%282016%29.png",[COLOR lime] RECORD NEWS [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record_News_%282016%29.png",[COLOR lime] RECORD NEWS [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1513
 
 
-
+[COLOR deeppink] HD [/COLOR]
 
 ******************************************************** TV *******************************************************************************
 #EXTM3U
