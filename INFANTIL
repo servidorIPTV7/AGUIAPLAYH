@@ -9,6 +9,14 @@ http://canais.servidor.tv:8080/joel/joel123/1478
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyxd.jpg",[COLOR lime] Disney XD [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1517
 
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/nickjr.jpg",[COLOR lime] Nick JR [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1503
+
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/zoomoo.jpg",[COLOR lime] ZooMoo [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/377
+
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/discoverykids.jpg",[COLOR lime] Discovery Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1483
 
 
 
