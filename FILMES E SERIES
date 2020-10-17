@@ -1,110 +1,112 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/aee.jpg",[COLOR lime] A&E HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/aee.jpg",[COLOR lime] A&E [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1521
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/amc.jpg",[COLOR lime] AMC HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/amc.jpg",[COLOR lime] AMC [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1498
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tcm.jpg",[COLOR lime] TCM HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tcm.jpg",[COLOR lime] TCM [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/99
 
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/31/items/cinemax_202010/axn.jpg",[COLOR lime] AXN HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/31/items/cinemax_202010/axn.jpg",[COLOR lime] AXN [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1496
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/cinemax.jpg",[COLOR lime] Cinemax HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/cinemax.jpg",[COLOR lime] Cinemax [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1490
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/foxpremium1.jpg",[COLOR lime] Fox Premium 1 HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/foxpremium1.jpg",[COLOR lime] Fox Premium 1 [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1505
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/foxpremium2.jpg",[COLOR lime] Fox Premium 2 HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/foxpremium2.jpg",[COLOR lime] Fox Premium 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/29768
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/fx.jpg",[COLOR lime] FX HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/fx.jpg",[COLOR lime] FX [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1469
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbo.jpg",[COLOR lime] HBO HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbo.jpg",[COLOR lime] HBO [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1463
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbo2.jpg",[COLOR lime] HBO 2 HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbo2.jpg",[COLOR lime] HBO 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1460
 
-#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Pop HD [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Pop [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1455
 
-#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Mundi HD [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Mundi [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1457
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hboplus.jpg",[COLOR lime] HBO Plus HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hboplus.jpg",[COLOR lime] HBO Plus [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/146
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbofamily.jpg",[COLOR lime] HBO Family HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbofamily.jpg",[COLOR lime] HBO Family [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1464
 
-#EXTINF:-1 tvg-logo="",[COLOR lime] Universal Channel HD [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] Universal Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1431
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbosignature.jpg",[COLOR lime] HBO Signature HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbosignature.jpg",[COLOR lime] HBO Signature [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1461
 
-#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Xtreme HD [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] HBO Xtreme [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1456
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/megapix.jpg",[COLOR lime] Megapix HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/megapix.jpg",[COLOR lime] Megapix [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1454
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/space.jpg",[COLOR lime] Space HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/space.jpg",[COLOR lime] Space [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1445
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecineaction.jpg",[COLOR lime] Telecine Action HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecineaction.jpg",[COLOR lime] Telecine Action [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1438
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinecult.jpg",[COLOR lime] Telecine Cult HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinecult.jpg",[COLOR lime] Telecine Cult [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1437
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinefun.jpg",[COLOR lime] Telecine-fun [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinefun.jpg",[COLOR lime] Telecine-fun [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1436
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinepipoca.jpg",[COLOR lime] Telecine Pipoca HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinepipoca.jpg",[COLOR lime] Telecine Pipoca [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1435
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinepremium.jpg",[COLOR lime] Telecine Premium HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinepremium.jpg",[COLOR lime] Telecine Premium [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1434
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinetouch.jpg",[COLOR lime] Telecine Touch HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinetouch.jpg",[COLOR lime] Telecine Touch [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1439
 
-#EXTINF:-1 tvg-logo="",[COLOR lime] TLC HD [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR lime] TLC [COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/94
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tnt.jpg",[COLOR lime] TNT HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tnt.jpg",[COLOR lime] TNT [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1433
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tntseries.jpg",[COLOR lime] TNT Series HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tntseries.jpg",[COLOR lime] TNT Series [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1432
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/sony.jpg",[COLOR lime] Sony HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/sony.jpg",[COLOR lime] Sony [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1446
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/studiouniversal.jpg",[COLOR lime] Studio Universal HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/studiouniversal.jpg",[COLOR lime] Studio Universal [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1441
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/lifetime.jpg",[COLOR lime] Lifetime HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/lifetime.jpg",[COLOR lime] Lifetime [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1458
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/syfy.jpg",[COLOR lime] Syfy HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/syfy.jpg",[COLOR lime] Syfy [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1440
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/comedycentral.jpg",[COLOR lime] Comedy Central HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/comedycentral.jpg",[COLOR lime] Comedy Central [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1488
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/curta.jpg",[COLOR lime] Curta! SD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/curta.jpg",[COLOR lime] Curta! [/COLOR] [COLOR deeppink] SD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/338
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/warner.jpg",[COLOR lime] Warner Channel HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/warner.jpg",[COLOR lime] Warner Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1430
+
+[COLOR deeppink] HD [/COLOR]
 
 
 
