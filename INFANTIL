@@ -18,5 +18,27 @@ http://canais.servidor.tv:8080/joel/joel123/377
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/discoverykids.jpg",[COLOR lime] Discovery Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1483
 
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/boomerang.jpg",[COLOR lime] Boomerang [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1492
+
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/cartoon.jpg",[COLOR lime] Cartoon Network [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1491
+
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/gloob.jpg",[COLOR lime] Gloobinho [/COMOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1515
+
+#EXTINF:-1tvg-logo="https://ia601507.us.archive.org/32/items/toocast/natgeokids.jpg",[COLOR lime] Nat Geo Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1451
+
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/nickelodeon.jpg",[COLOR lime] Nickelodeon [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1449
+
+
+
+
+
+
+
+
 
 
