@@ -14,6 +14,20 @@
 
 <channels>
 <channel>
+<name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime] FILMES [/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
+<thumbnail>https://ia601401.us.archive.org/22/items/icon_20201009_20201009_1421/icon.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia601504.us.archive.org/0/items/fanart_20200907_2235/fanart.jpg</fanart>
+<info>
+
+"[COLOR lime] OS MELHORES FILMES [/COLOR]"</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime] SERIES [/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/22/items/icon_20201009_20201009_1421/icon.png</thumbnail>
 <externallink></externallink>
@@ -21,6 +35,20 @@
 <info>
 
 "[COLOR lime] AS MELHORES SERIES [/COLOR]"</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime] NOVELAS [/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
+<thumbnail>https://ia601401.us.archive.org/22/items/icon_20201009_20201009_1421/icon.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia601504.us.archive.org/0/items/fanart_20200907_2235/fanart.jpg</fanart>
+<info>
+
+"[COLOR lime] AS MELHORES NOVELAS [/COLOR]"</info>
 </channel>
 </channels>
 
