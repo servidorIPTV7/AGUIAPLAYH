@@ -2,22 +2,22 @@
 
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/history.jpg",[COLOR lime] H [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/canais/mega.php?canal=history
+https://streaming.belugacdn.link/a/hls1/history.m3u8?expires=1603240388&token=5a5512eaaa6a84301556f1825a75dc1e
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/h2.jpg",[COLOR lime] H2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=history2
+https://streaming.belugacdn.link/a/hls1/history2.m3u8?expires=1603240427&token=351acbbd8838375358dcd36ca411fcf4
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/discovery.jpg",[COLOR lime] Aeroporto Área Restrita [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=discovery
+https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1603240644&token=e94661ad102283c9a9363ebf17e56cf0
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/animalplanet.jpg",[COLOR lime] Animal Planet [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=animalplanet
+https://streaming.belugacdn.link/a/hls1/animalplanet.m3u8?expires=1603240714&token=755169f4190b79b88cc4137457efa083
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoverycience.jpg",[COLOR lime] Discovery Science [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=discoverysience
+https://streaming.belugacdn.link/a/hls1/discoverysience.m3u8?expires=1603240763&token=6fcdafaa1693873f6072b950769c3c73
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/disccoveryteater.jpg",[COLOR lime] Discovery Theater [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=discoverytheater
+https://streaming.belugacdn.link/a/hls1/discoverytheater.m3u8?expires=1603240799&token=8c31d47dc35f5f0bf33cc447264c0f48
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryturbo.jpg",[COLOR lime] Discovery Turbo [/COLOR] [COLOR deeppink] HD [/COLOR]
 https://megafilmeshd50.top/iptv.php?source=discoveryturbo
@@ -30,7 +30,7 @@ https://megafilmeshd50.top/iptv.php?source=investigacaodiscovery
 
 
 
-
+https://streaming.belugacdn.link/a/hls1/natgeowild.m3u8?expires=1603240994&token=fb7325d254853ccb1ac8b762b19db5ac
 
 
 
