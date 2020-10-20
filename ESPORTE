@@ -3,40 +3,40 @@
 **************************************** ESPORTES ONLINE **********************************************************************
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/bandsports.jpg",[COLOR lime] Band Sports [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1495
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1603239001&token=4981ac9dc9de8dd99f2cf0211626ba29
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/combate.jpg",[COLOR lime] Combate [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1489
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1603239083&token=b46aedb543e40e6931d4f363984a468a
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espn.jpg",[COLOR lime] ESPN [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1477
+https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1603239130&token=8a23478db56029e70613ea30cb455658
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espn2.jpg",[COLOR lime] ESPN 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1476
+https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1603239188&token=3f13bec8d8ab4b9cdc845c7ddb3e5afc
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espnbrasil.jpg",[COLOR lime] ESPN Brasil [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1475
+https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1603239232&token=5c9a0e93bd6d8c889e9f37055e4918a1
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espnextra.jpg",[COLOR lime] ESPN Extra [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/311
+https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1603239265&token=3bd6ce102e7fdde6714487ab23542791
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/fox-disney-1/fox-disney-1.png",[COLOR lime] Fox Sports [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1502
+https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1603239324&token=f681df40be9c29deee31bc5ab33b8ed6
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/foxsports2.jpg",[COLOR lime] Fox Sports 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1501
+https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1603239379&token=93af6b07e87208cfdddd44c579804ca3
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/sportv.jpg",[COLOR lime] SporTV [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1444
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1603239421&token=bbb1bebd509bb98ec2efde4536961930
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/sportv2.jpg",[COLOR lime] SporTV 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1443
+https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1603239466&token=ace2bde4c685d95890d490d7f7626ecb
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/sportv3.jpg",[COLOR lime] SporTV 3 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1442
+https://streaming.belugacdn.link/a/hls1/sportv3.m3u8?expires=1603239507&token=fabd6a1c441ef5c8f97816c6b4ace57b
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/9053e17ae5c1fd13359f048ed139fe5c.png",[COLOR lime] Premiere Clubes [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1447
+https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1603239550&token=811ba605e726796d25de312fd7c58207
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/aea1ca2a1b14aba0dd9e827ec70bc17d.png",[COLOR lime] Premiere 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1511
