@@ -2,32 +2,31 @@
 
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/history.jpg",[COLOR lime] H [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/history.m3u8?expires=1603240388&token=5a5512eaaa6a84301556f1825a75dc1e
+https://streaming.belugacdn.link/a/hls1/history.m3u8?expires=1603322375&token=5bdd2d906240f221a7b0c82ac545961f
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/h2.jpg",[COLOR lime] H2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/history2.m3u8?expires=1603240427&token=351acbbd8838375358dcd36ca411fcf4
+https://streaming.belugacdn.link/a/hls1/history2.m3u8?expires=1603322417&token=a3810f0be73959562999515045dbfc5c
 
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/discovery.jpg",[COLOR lime] Aeroporto Área Restrita [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1603240644&token=e94661ad102283c9a9363ebf17e56cf0
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/discovery.jpg",[COLOR lime] HGTV [/COLOR] [COLOR deeppink] HD [/COLOR]
+https://streaming.belugacdn.link/a/hls1/hgtv.m3u8?expires=1603322708&token=f2b7389d68a80aa1d3c94b694663a1b5
 
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/animalplanet.jpg",[COLOR lime] Animal Planet [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/animalplanet.m3u8?expires=1603240714&token=755169f4190b79b88cc4137457efa083
+https://streaming.belugacdn.link/a/hls1/animalplanet.m3u8?expires=1603322485&token=263a56a3fc4f2bd8a7221f68e620a9af
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoverycience.jpg",[COLOR lime] Discovery Science [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/discoverysience.m3u8?expires=1603240763&token=6fcdafaa1693873f6072b950769c3c73
+https://streaming.belugacdn.link/a/hls1/discoverysience.m3u8?expires=1603322524&token=fad3d6d563269888ae2f5e208e79d748
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/disccoveryteater.jpg",[COLOR lime] Discovery Theater [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/discoverytheater.m3u8?expires=1603240799&token=8c31d47dc35f5f0bf33cc447264c0f48
+https://streaming.belugacdn.link/a/hls1/discoverytheater.m3u8?expires=1603322559&token=86057f42ad59eb092667d603053ffe29
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryturbo.jpg",[COLOR lime] Discovery Turbo [/COLOR] [COLOR deeppink] HD [/COLOR]
 https://megafilmeshd50.top/iptv.php?source=discoveryturbo
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryworld.jpg",[COLOR lime] Discovery World [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=discoveryworld
+https://streaming.belugacdn.link/a/hls1/natgeowild.m3u8?expires=1603322630&token=18b162123a0c9b20401b573f15892b08
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/investigacaodiscovery.jpg",[COLOR lime] Investigação Discovery [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://megafilmeshd50.top/iptv.php?source=investigacaodiscovery
-
+https://streaming.belugacdn.link/a/hls1/natgeo.m3u8?expires=1603322666&token=227b84c6e09a971592e8223704fd22e8
 
 
 
