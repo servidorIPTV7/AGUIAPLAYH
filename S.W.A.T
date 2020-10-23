@@ -1,9 +1,9 @@
 <channels>
 <channel>
 <name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]1-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<thumbnail>https://ia601402.us.archive.org/34/items/24_20201023/21.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<fanart>https://ia801402.us.archive.org/34/items/24_20201023/26.jpg</fanart>
 <info>
 
 "[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
@@ -15,9 +15,9 @@
 <channels>
 <channel>
 <name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]2-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<thumbnail>https://ia801402.us.archive.org/34/items/24_20201023/22.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<fanart>https://ia801402.us.archive.org/34/items/24_20201023/25.jpg</fanart>
 <info>
 
 "[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
@@ -29,9 +29,9 @@
 <channels>
 <channel>
 <name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]3-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<thumbnail>https://ia801402.us.archive.org/34/items/24_20201023/24.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<fanart>https://ia801402.us.archive.org/34/items/24_20201023/27.jpg</fanart>
 <info>
 
 "[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
@@ -42,7 +42,6 @@
 
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
