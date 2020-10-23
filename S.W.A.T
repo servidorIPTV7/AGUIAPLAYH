@@ -1,0 +1,58 @@
+<channels>
+<channel>
+<name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]1-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<info>
+
+"[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]2-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<info>
+
+"[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]3-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<info>
+
+"[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/29/items/29_20201022/29.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/29_20201022/28.jpg</fanart>
+<info>
+
+"[COLOR lime]- AS MELHORES SERIES -[/COLOR]"</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
