@@ -30,7 +30,7 @@
 <channel>
 <name>[COLOR deeppink] <<<<<<<< [/COLOR] [COLOR lime]3-TP-S.W.A.T[/COLOR] [COLOR deeppink] >>>>>>>> [/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/34/items/24_20201023/24.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/sillas200/AGUIAPLAYH/main/3-TP-S.W.A.T</externallink>
 <fanart>https://ia801402.us.archive.org/34/items/24_20201023/27.jpg</fanart>
 <info>
 
