@@ -3,49 +3,49 @@
 **************************************** ESPORTES ONLINE **********************************************************************
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/bandsports.jpg",[COLOR lime] Band Sports [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1603320950&token=60db3f0702c149afd1ec6bd3d3ea7f42
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1603672963&token=0440665fbcd79d7e7581ca069d45175b
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/combate.jpg",[COLOR lime] Combate [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1603321011&token=3de42b406faf0416c30587c922e65035
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1603673069&token=2dc983509776d7f4e5bb58a1f33a75c4
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espn.jpg",[COLOR lime] ESPN [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1603321074&token=f1ec7fb17579060afd8c6a4615d620e5
+https://deik3doov5vi1.cloudfront.net/hls1/espn-107183.ts
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espn2.jpg",[COLOR lime] ESPN 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1603321152&token=9c253539c17c6b0f59b913d6a063f6e0
+https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1603673200&token=7cd711d86e42f89b7099744521038f8d
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espnbrasil.jpg",[COLOR lime] ESPN Brasil [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1603321219&token=26178f47fadc90cdee13a0703eff67ca
+https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1603673247&token=c1075bc58006b117cdecaf96ba9c7e79
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/espnextra.jpg",[COLOR lime] ESPN Extra [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1603321255&token=944b73835e2fda4e2c0179b0018150d1
+https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1603673284&token=3bcdf87ee83084b7f9f952ad178068a7
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/fox-disney-1/fox-disney-1.png",[COLOR lime] Fox Sports [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1603623895&token=d4c508a06894a104d33037654f8d5deb
+https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1603673390&token=786c0cf127dbcf58f87031c3f9c00591
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/foxsports2.jpg",[COLOR lime] Fox Sports 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1603623895&token=86b2d372a64387f067734647804849aa
+https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1603673456&token=62d0a753c8feac39e01caae7d98f2b4c
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/sportv.jpg",[COLOR lime] SporTV [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1603623895&token=0649d5a6b3c2aa0e0942a147b4e03a5a
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1603673501&token=15ed2c9b7cbd6afcbc47e26a372ab054
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/sportv2.jpg",[COLOR lime] SporTV 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1603321461&token=0adf36001b8226485de28387b7fb8b6d
+https://deik3doov5vi1.cloudfront.net/hls1/sportv2-29769.ts
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/sportv3.jpg",[COLOR lime] SporTV 3 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sportv3.m3u8?expires=1603321504&token=7e2759ba308f479bdd4962407637c923
+https://deik3doov5vi1.cloudfront.net/hls1/sportv3-30200.ts
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/9053e17ae5c1fd13359f048ed139fe5c.png",[COLOR lime] Premiere Clubes [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1603321545&token=6420530e6d8fc8b588c9aa9bdebcee9a
+https://deik3doov5vi1.cloudfront.net/hls1/premiereclubes-30182.ts
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/aea1ca2a1b14aba0dd9e827ec70bc17d.png",[COLOR lime] Premiere 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1511
+https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1603673348&token=cbc55cf9f9964142183531786f5c444d
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/d1639c5840d3c23f040e893b9f81f419.png",[COLOR lime] Premiere 3 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1510
+https://deik3doov5vi1.cloudfront.net/hls1/premiere3-30263.ts
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/957a5147b4bf49ca8a6f3c880c73075b.png",[COLOR lime] Premiere 4 [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1509
+https://deik3doov5vi1.cloudfront.net/hls1/premiere4-30236.ts
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/32/items/fox-disney-1/b0112d64c13364b274efb615ec89d4d8.png",[COLOR lime] Premiere 5 [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1508
