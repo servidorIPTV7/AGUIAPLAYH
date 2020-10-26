@@ -1,37 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneychannel.jpg",[COLOR lime] Disney Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/disney.m3u8?expires=1603321684&token=b0ab34187a84d90172881e0a2b12f280
+http://canais.servidor.tv:8080/joel/joel123/1480
 
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyjunior.jpg",[COLOR lime] Disney Júnior [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/disneyjunior.m3u8?expires=1603321737&token=4504b15de868746e22be73bdb821da7b
+http://canais.servidor.tv:8080/joel/joel123/1478
 
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyxd.jpg",[COLOR lime] Disney XD [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/disneyxd-v2.m3u8?expires=1603321822&token=4fd050b20486d32087237358bd17d7ea
+http://canais.servidor.tv:8080/joel/joel123/1517
 
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/nickjr.jpg",[COLOR lime] Nick JR [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/nickjr-v2.m3u8?expires=1603321882&token=e844138748b1af67b951dc602b0e680e
+http://canais.servidor.tv:8080/joel/joel123/1503
 
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/zoomoo.jpg",[COLOR lime] ZooMoo [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/377
 
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/discoverykids.jpg",[COLOR lime] Discovery Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/discoverykids-v2.m3u8?expires=1603322029&token=992cdb0ae7f683f88cde08269dd00465
+http://canais.servidor.tv:8080/joel/joel123/1483
 
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/boomerang.jpg",[COLOR lime] Boomerang [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/boomerang.m3u8?expires=1603322071&token=3be100ec3f4b746116c9ec9b184c3dfe
+http://canais.servidor.tv:8080/joel/joel123/1492
 
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/cartoon.jpg",[COLOR lime] Cartoon Network [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/cartoon.m3u8?expires=1603322110&token=832bd33ca3eabc6408cf1cfd4d93bdac
+http://canais.servidor.tv:8080/joel/joel123/32598
 
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/gloob.jpg",[COLOR lime] Gloobinho [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/gloob.m3u8?expires=1603322147&token=18197f8f5c3190bb1a4728d4eb9376a0
+http://canais.servidor.tv:8080/joel/joel123/1515
 
 #EXTINF:-1tvg-logo="https://ia601507.us.archive.org/32/items/toocast/natgeokids.jpg",[COLOR lime] Nat Geo Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/natgeokids-v2.m3u8?expires=1603322194&token=4fb5d40c1fefc6a0494236c986732db8
+http://canais.servidor.tv:8080/joel/joel123/1451
 
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/nickelodeon.jpg",[COLOR lime] Nickelodeon [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/nick.m3u8?expires=1603322236&token=786da57f3dc08d39586a398ba63c8476
+http://canais.servidor.tv:8080/joel/joel123/1449
 
 
 
