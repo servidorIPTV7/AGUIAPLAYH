@@ -2,88 +2,85 @@
 
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/aee.jpg",[COLOR lime] A&E [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/aie.m3u8?expires=1603323650&token=d21b34a343a7fcaec3b81203e7fb4d1b
+http://canais.servidor.tv:8080/joel/joel123/1521
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/amc.jpg",[COLOR lime] AMC [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/amc.m3u8?expires=1603323684&token=5598f7c23cd46fd7db8303bb8a37f4fb
+http://canais.servidor.tv:8080/joel/joel123/1498
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tcm.jpg",[COLOR lime] TCM [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/tcm.m3u8?expires=1603324124&token=790de31c8f2b7e434e3334f3c5415fb3
+http://canais.servidor.tv:8080/joel/joel123/99
 
 #EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/31/items/cinemax_202010/axn.jpg",[COLOR lime] AXN [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/axn.m3u8?expires=1603323730&token=98072ec92b4e412df38cbcfeefae5432
+http://canais.servidor.tv:8080/joel/joel123/1496
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/cinemax.jpg",[COLOR lime] Cinemax [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/cinemax-v2.m3u8?expires=1603323508&token=a088a1093564ea9ac9d0e5e789a64686
+http://canais.servidor.tv:8080/joel/joel123/1490
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/foxpremium1.jpg",[COLOR lime] Fox Premium 1 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/foxpremium1.m3u8?expires=1603323559&token=09c2cf9d6d77816fa5c8efd9d02b53e9
+http://canais.servidor.tv:8080/joel/joel123/1505
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/foxpremium2.jpg",[COLOR lime] Fox Premium 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/foxpremium2-v2.m3u8?expires=1603323603&token=e6cb206199a00c6d7b432edb9f6b429b
+http://canais.servidor.tv:8080/joel/joel123/29768
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/fx.jpg",[COLOR lime] FX [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/fx.m3u8?expires=1603324533&token=75c655f2b14c6a4ab94979fcf07cfa2b
+http://canais.servidor.tv:8080/joel/joel123/1469
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbo.jpg",[COLOR lime] HBO [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hbo.m3u8?expires=1603323771&token=3395d25d8276761772b21fc1f6b42381
+http://canais.servidor.tv:8080/joel/joel123/1463
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbo2.jpg",[COLOR lime] HBO 2 [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hbo2-v2.m3u8?expires=1603323302&token=c300467ca79c526da260a7b7502237af
+http://canais.servidor.tv:8080/joel/joel123/1460
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/29/items/universal-tv_202010/hbo-pop.jpg",[COLOR lime] HBO Pop [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hbopop-v2.m3u8?expires=1603323884&token=308e604e2d676f974e2239670d5fda58
+http://canais.servidor.tv:8080/joel/joel123/1455
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/29/items/universal-tv_202010/hbo-mundi.jpg",[COLOR lime] HBO Mundi [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hbomundi-v2.m3u8?expires=1603323945&token=55309612be93a7fc9edafc8faf266cbc
+http://canais.servidor.tv:8080/joel/joel123/1457
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hboplus.jpg",[COLOR lime] HBO Plus [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hboplus.m3u8?expires=1603324017&token=99e885c5b1e91eb5def51c390458675e
+http://canais.servidor.tv:8080/joel/joel123/1462
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbofamily.jpg",[COLOR lime] HBO Family [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hbofamily.m3u8?expires=1603323825&token=630c9f85ff0f149ff1708afbe4ab27cc
-
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/29/items/universal-tv_202010/universal-tv.jpg",[COLOR lime] Universal Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/universal.m3u8?expires=1603324612&token=8309967636cacd83dce674426041667a
+http://canais.servidor.tv:8080/joel/joel123/1464
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/hbosignature.jpg",[COLOR lime] HBO Signature [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hbosignature.m3u8?expires=1603324057&token=7d34fac93bb03e8d88b4e0e56c68a349
+http://canais.servidor.tv:8080/joel/joel123/1461
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/29/items/universal-tv_202010/hbo-xtreme.jpg",[COLOR lime] HBO Xtreme [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/hboxtreme.m3u8?expires=1603324094&token=fb937f4af54138a4b42b3b5122a38197
+http://canais.servidor.tv:8080/joel/joel123/1456
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/megapix.jpg",[COLOR lime] Megapix [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1603323182&token=3b7408e4cddbfb20d2e90d16ef2fd683
+http://canais.servidor.tv:8080/joel/joel123/1454
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/space.jpg",[COLOR lime] Space [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/space.m3u8?expires=1603322888&token=605ffc1e5246d7a118c1e17236b8df1c
+http://canais.servidor.tv:8080/joel/joel123/1445
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecineaction.jpg",[COLOR lime] Telecine Action [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/telecineaction.m3u8?expires=1603324301&token=32f7109dc96c42950159dd463d6cc6c1
+http://canais.servidor.tv:8080/joel/joel123/1438
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinecult.jpg",[COLOR lime] Telecine Cult [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/telecinecult.m3u8?expires=1603323106&token=f1a829acfd4129a74e70b976b256440f
+http://canais.servidor.tv:8080/joel/joel123/1437
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinefun.jpg",[COLOR lime] Telecine-fun [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/telecinefun.m3u8?expires=1603324196&token=e6282b6a07b9c6bf38197357aa47e0de
+http://canais.servidor.tv:8080/joel/joel123/1436
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinepipoca.jpg",[COLOR lime] Telecine Pipoca [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/telecinepipoca.m3u8?expires=1603323059&token=13b6ac2970297c6a3907bb3f4bf548b7
+http://canais.servidor.tv:8080/joel/joel123/1435
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinepremium.jpg",[COLOR lime] Telecine Premium [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1603324351&token=4b679e42961cd6383032bdb542b999e8
+http://canais.servidor.tv:8080/joel/joel123/1434
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/telecinetouch.jpg",[COLOR lime] Telecine Touch [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/telecinetouch-v2.m3u8?expires=1603324258&token=d6fa0320d17bd9e452c591ab14208e1c
+http://canais.servidor.tv:8080/joel/joel123/1439
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/29/items/universal-tv_202010/tlc.jpg",[COLOR lime] TLC [COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/94
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tnt.jpg",[COLOR lime] TNT [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/tnt.m3u8?expires=1603322955&token=e557e01f540e9edaf102222540545f15
+http://canais.servidor.tv:8080/joel/joel123/92
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/tntseries.jpg",[COLOR lime] TNT Series [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/tntseries.m3u8?expires=1603323012&token=d797e8e1d95e423186ac025fc8121dd8
+http://canais.servidor.tv:8080/joel/joel123/1432
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/sony.jpg",[COLOR lime] Sony [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1446
@@ -91,11 +88,14 @@ http://canais.servidor.tv:8080/joel/joel123/1446
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/studiouniversal.jpg",[COLOR lime] Studio Universal [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1441
 
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/29/items/universal-tv_202010/universal-tv.jpg",[COLOR lime] Universal Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
+http://canais.servidor.tv:8080/joel/joel123/1431
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/lifetime.jpg",[COLOR lime] Lifetime [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1458
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/syfy.jpg",[COLOR lime] Syfy [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/syfy-v2.m3u8?expires=1603324477&token=e79ba817753b97f6ef5c9f3643c818c5
+http://canais.servidor.tv:8080/joel/joel123/1440
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/31/items/cinemax_202010/comedycentral.jpg",[COLOR lime] Comedy Central [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1488
