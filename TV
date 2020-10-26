@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/500px-Logotipo_do_SBT.svg.png",[COLOR lime] SBT [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1603241386&token=0949286d280e52f035d99ac59ffebb06
+http://canais.servidor.tv:8080/joel/joel123/1512
 
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-globo-rio-ao-vivo.jpg",[COLOR lime] GLOBO RJ [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1603241424&token=baa352c0fb545e04f0ba80794d7fba5a
+http://canais.servidor.tv:8080/joel/joel123/1504
 
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-globo-rio-ao-vivo.jpg",[COLOR lime] GLOBO SP [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1603241467&token=73044bda2fb9a5b3713a5846d4f3719b
+http://canais.servidor.tv:8080/joel/joel123/1466
 
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-globo-rio-ao-vivo.jpg",[COLOR lime] GLOBO NORDESTE [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1603241505&token=d3994e6525b4ccfa301522df9384de91
+http://canais.servidor.tv:8080/joel/joel123/275
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] RECORD TV GO [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/29779
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/Logotipo_da_Record.png",[COLOR lime] Record SP [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/recordsp.m3u8?expires=1603241348&token=7be7d92f8253d235ecf70b67ad8b30fe
+http://canais.servidor.tv:8080/joel/joel123/403
 
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/5/items/sbt-1/assistir-redetv-rio-de-janeiro-hd-ao-vivo.jpg",[COLOR lime] REDE TV [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/136
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/13/items/logotipo-da-rede-globo_202010/1024px-Rede_Bandeirantes_logo_2018.svg.png",[COLOR lime] BAND [/COLOR] [COLOR deeppink] HD [/COLOR]
-https://streaming.belugacdn.link/a/hls1/band.m3u8?expires=1603241265&token=4a6ffb014c29a4efadb1a5639144b63b
+http://canais.servidor.tv:8080/joel/joel123/489
 
 
 ******************************************************** TV *******************************************************************************
