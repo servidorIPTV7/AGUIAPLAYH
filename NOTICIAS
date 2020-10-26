@@ -1,8 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/globonews/globonews.jpg",[COLOR lime] Globo News [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1468
+https://streaming.belugacdn.link/a/hls1/bandsports.tv:8080/joel/joel123/1468
 
+http://canais.servidor
 #EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/11/items/globonews/assistir-record-news-ao-vivo.jpg",[COLOR lime] Record News [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1513
 
