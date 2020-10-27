@@ -1,41 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneychannel.jpg",[COLOR lime] Disney Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://archive.org/download/disney-channel-hd/disney-channel-hd.jpg",[COLOR lime] Disney Channel [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1480
 
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyjunior.jpg",[COLOR lime] Disney Júnior [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/disney-junior.jpg",[COLOR lime] Disney Júnior [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1478
 
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/disneyxd.jpg",[COLOR lime] Disney XD [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/disney-xd.jpg",[COLOR lime] Disney XD [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1517
 
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/nickjr.jpg",[COLOR lime] Nick JR [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/nick-jr.jpg",[COLOR lime] Nick JR [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1503
 
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/zoomoo.jpg",[COLOR lime] ZooMoo [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/377
-
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/disneychannel_202010/discoverykids.jpg",[COLOR lime] Discovery Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/discovery-kids.jpg",[COLOR lime] Discovery Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1483
 
-#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/boomerang.jpg",[COLOR lime] Boomerang [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/34/items/disney-channel-hd/boomerang.jpg",[COLOR lime] Boomerang [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1492
 
-#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/cartoon.jpg",[COLOR lime] Cartoon Network [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/cartoon-network.jpg",[COLOR lime] Cartoon Network [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/32598
 
-#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/gloob.jpg",[COLOR lime] Gloobinho [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/1515
-
-#EXTINF:-1tvg-logo="https://ia601507.us.archive.org/32/items/toocast/natgeokids.jpg",[COLOR lime] Nat Geo Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/nat-geo-kids-hd.jpg",[COLOR lime] Nat Geo Kids [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1451
 
-#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/32/items/toocast/nickelodeon.jpg",[COLOR lime] Nickelodeon [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/34/items/disney-channel-hd/nickelodeon-hd.jpg",[COLOR lime] Nickelodeon [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1449
-
-
-
-
-
-
 
