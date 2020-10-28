@@ -1,18 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/globonews/globonews.jpg",[COLOR lime] Globo News [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/26/items/assistir-cnn-international-ao-vivo/assistir-globo-news-hd-ao-vivo.jpg",[COLOR lime] Globo News [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1468
 
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/11/items/globonews/assistir-record-news-ao-vivo.jpg",[COLOR lime] Record News [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/26/items/assistir-cnn-international-ao-vivo/assistir-record-news-ao-vivo.jpg",[COLOR lime] Record News [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1513
 
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/11/items/globonews/bandnews.jpg",[COLOR lime] Band News [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/26/items/assistir-cnn-international-ao-vivo/assistir-bandnews-ao-vivo.jpg",[COLOR lime] Band News [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1494
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/cnn-brasil-logo/cnn-brasil-logo.png",[COLOR lime] CNN Brasil [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/21417
-
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/33/items/cnn-brasil-logo/cnni_thumb1.png",[COLOR lime] CNN Internacional [/COLOR] [COLOR deeppink] SD [/COLOR]
+#EXTINF:-1 tvg-logo="https://archive.org/download/assistir-cnn-international-ao-vivo/assistir-cnn-international-ao-vivo.jpg",[COLOR lime] CNN Internacional [/COLOR] [COLOR deeppink] SD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/344
 
 
