@@ -1,28 +1,26 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/history.jpg",[COLOR lime] H [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/4/items/national-geographic-wild-hd/history-hd.jpg",[COLOR lime] H [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1459
 
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/h2.jpg",[COLOR lime] H2 [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/4/items/national-geographic-wild-hd/history-2.jpg",[COLOR lime] H2 [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1465
 
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/discoveryworld_202010/animalplanet.jpg",[COLOR lime] Animal Planet [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/4/items/national-geographic-wild-hd/animal-planet.jpg",[COLOR lime] Animal Planet [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1497
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoverycience.jpg",[COLOR lime] Discovery Science [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/4/items/national-geographic-wild-hd/discovery-science.jpg",[COLOR lime] Discovery Science [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1482
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/disccoveryteater.jpg",[COLOR lime] Discovery Theater [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/4/items/national-geographic-wild-hd/discovery-theater-hd.jpg",[COLOR lime] Discovery Theater [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1486
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryturbo.jpg",[COLOR lime] Discovery Turbo [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/4/items/national-geographic-wild-hd/discovery-turbo.jpg",[COLOR lime] Discovery Turbo [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1481
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/discoveryworld.jpg",[COLOR lime] Discovery World [/COLOR] [COLOR deeppink] HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/4/items/national-geographic-wild-hd/discovery-world-hd.jpg",[COLOR lime] Discovery World [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1485
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/26/items/discoveryworld_20201017/investigacaodiscovery.jpg",[COLOR lime] Investigação Discovery [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:8080/joel/joel123/218
 
 
