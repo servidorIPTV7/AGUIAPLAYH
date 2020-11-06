@@ -41,9 +41,8 @@ http://canais.servidor.tv:8080/joel/joel123/1462
 http://canais.servidor.tv:8080/joel/joel123/1464
 
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/7/items/telecine-premium-hd/hbo-signature-hd.jpg",[COLOR lime] HBO Signature [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:3afd10d05b48e958ff39cf1d47695ded
+https://canais.servidor.tv:8080/joel/joel123/1461
 
-8080/joel/joel123/1461
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/7/items/telecine-premium-hd/hbo-xtreme.jpg",[COLOR lime] HBO Xtreme [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1456
 
