@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/15/items/comedy-central_202010/ae-hd.jpg",[COLOR lime] A&E [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1521
 
@@ -41,7 +39,7 @@ http://canais.servidor.tv:8080/joel/joel123/1462
 http://canais.servidor.tv:8080/joel/joel123/1464
 
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/7/items/telecine-premium-hd/hbo-signature-hd.jpg",[COLOR lime] HBO Signature [/COLOR] [COLOR deeppink] HD [/COLOR]
-http://canais.servidor.tv:9090/joel/joel123/1461
+http://canais.servidor.tv:8080/joel/joel123/1461
 
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/7/items/telecine-premium-hd/hbo-xtreme.jpg",[COLOR lime] HBO Xtreme [/COLOR] [COLOR deeppink] HD [/COLOR]
 http://canais.servidor.tv:8080/joel/joel123/1456
